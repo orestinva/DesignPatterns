@@ -5,6 +5,9 @@ import com.orest.patterns.factories.CandyFactory;
 import com.orest.patterns.factories.CaramelFactory;
 import com.orest.patterns.factories.ChocolateFactory;
 
+/**
+ * 
+ */
 public class SweetsShop {
 	
 	private CandyFactory caramelFactory;
